@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>F1 History - Temporada 2024</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>F1 History</h1>
+        <p>Resultados de la temporada 2024 de Fórmula 1</p>
+    </header>
+
+    <main>
+        <section id="resultados">
+            <h2>Resultados de las Carreras 2024</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Gran Premio</th>
+                        <th>Fecha</th>
+                        <th>Ganador</th>
+                        <th>Equipo</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <!-- Aquí puedes agregar más resultados manualmente -->
+                    <tr>
+                        <td>GP de Baréin</td>
+                        <td>2 de marzo</td>
+                        <td>Max Verstappen</td>
+                        <td>Red Bull</td>
+                    </tr>
+                </tbody>
+            </table>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 F1 History - Datos sujetos a cambios.</p>
+    </footer>
+</body>
+</html>
